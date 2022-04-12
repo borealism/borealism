@@ -2,6 +2,6 @@
 
 - I'm currently working as a geological engineer
 
-#### However,
+### However,
 
-#### I'm a very keen Self-learner about Frontend Development, presently. 🌱
+## I'm a very keen Self-learner about Frontend Development, presently. 🌱
